@@ -1,5 +1,13 @@
-# arcadia
-For accurate perfomance of this programm you would need to:
-1. Install Braille font, just double click file named Binary_v2_by_xchristaox.ttf. Its insideBarille_2 folder
-2. Have a Python IDLE
-3. run main.py file, and follow instructions 
+#Translator
+Programm which translates English to Braille
+
+#Autor 
+Pika Grigoriy
+
+#Requirements
+1. Python 3.6 IDLE
+2. PyQt v5.6
+3. Braille font, you can find it in Barille_2 folder. Install Binary_v2_by_xchristaox.ttf.
+
+# How to run
+Run Braille.py, inside you will find something close to Google-transle, so it won't be a problem to understand how it works

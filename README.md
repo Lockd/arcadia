@@ -1,7 +1,7 @@
 # Translator
 Programm which translates English to Braille
 
-# Autor 
+# Author 
 Pika Grigoriy
 
 # Requirements
@@ -10,4 +10,4 @@ Pika Grigoriy
 3. Braille font, you can find it in Barille_2 folder. Install Binary_v2_by_xchristaox.ttf.
 
 # How to run
-Run Main.py, inside you will find something close to Google-transle, so it won't be a problem to understand how it works
+Run Barille.py, inside you will find something close to Google-transle, so it won't be a problem to understand how it works
